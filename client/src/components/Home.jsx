@@ -45,7 +45,7 @@ const TypewriterEffectSmoothDemo = () => {
       text: "with",
     },
     {
-      text: "Adbase.",
+      text: "Bnb-Ads.",
       className: "text-purple-500 dark:text-purple-500",
     },
   ];
