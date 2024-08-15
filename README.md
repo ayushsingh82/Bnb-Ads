@@ -1,6 +1,6 @@
 # Adbase
 
-Adbase is a platform designed for running advertising campaigns targeted at specific regions such as Asia, the Pacific, and Europe. Users can initiate their campaigns by depositing Ethereum (ETH), after which the campaign goes live on our platform.
+Bnb-Ads is a platform designed for running advertising campaigns targeted at specific regions such as Asia, the Pacific, and Europe. Users can initiate their campaigns by depositing Ethereum (ETH), after which the campaign goes live on our platform.
 
 ## Features
 
@@ -11,7 +11,7 @@ Adbase is a platform designed for running advertising campaigns targeted at spec
 
 # Dashboard Features
 
-The Adbase dashboard provides an intuitive interface to manage and monitor your campaigns:
+The Bnb-Ads  dashboard provides an intuitive interface to manage and monitor your campaigns:
 
 - **Campaign Overview:** View a summary of all active campaigns.
 - **Visitor Analytics:** Track the number of visitors to each campaign.
@@ -26,5 +26,5 @@ We have integrated zero-knowledge proofs using Circom to verify the number of cl
 
 # Contributing
 
-We welcome contributions to Adbase! If you'd like to contribute, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+We welcome contributions to Bnb-Ads ! If you'd like to contribute, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
