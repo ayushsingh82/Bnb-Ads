@@ -1,4 +1,4 @@
-# Adbase
+# BnbAds
 
 Bnb-Ads is a platform designed for running advertising campaigns targeted at specific regions such as Asia, the Pacific, and Europe. Users can initiate their campaigns by depositing Ethereum (ETH), after which the campaign goes live on our platform.
 
